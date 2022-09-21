@@ -1,0 +1,7 @@
+name: CommandArguments
+version: '${project.version}'
+main: me.shalckercraft.commandarguments.Plugin
+api-version: 1.16
+commands:
+  repeat:
+    description: Repeat stuff back to you
