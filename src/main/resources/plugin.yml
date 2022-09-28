@@ -5,3 +5,5 @@ api-version: 1.16
 commands:
   repeat:
     description: Repeat stuff back to you
+  fart:
+    description: Fart playerName
